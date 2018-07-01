@@ -1,0 +1,15 @@
+h3,i,content{
+	color: #9c9a89;
+	padding: 5px;
+}
+p{
+	color: blue;
+	padding: 5px;
+	margin: 3px;
+}
+div{
+	display: inline-block;
+	background-color: #fefcda;
+	border:1px solid #e8e8c6;
+	margin: 10px;
+}
